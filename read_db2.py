@@ -5,6 +5,9 @@
     @time:2020/2/26 下午3:41
     @desc:
 """
+"""
+READ2
+"""
 import pymysql
 
 # 连接数据库
